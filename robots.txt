@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Peppe2404.github.io/handbook-a5z7he/sitemap.xml
